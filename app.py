@@ -509,7 +509,7 @@ def mainLoop():
                                 serverHost = "0.0.0.0"  
                                 #port on which client needs to connect
                                 serverPort = 12345
-                                #file that is going to be sent 
+                                #file that is going to be sent // need to set this to directory where data file is saved (most likely same directory where script is located)
                                 fileToSend = ""
                                 #starts file server
                                 startSocketListening(serverHost, serverPort, fileToSend)
