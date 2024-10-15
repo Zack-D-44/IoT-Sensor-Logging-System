@@ -21,4 +21,12 @@ A Python based sensor logging package that is desinged for monitoring and analys
 - Once the button has been pressed down to stop data collection run the dashboardApp.py script on the computer
 - The dashboardApp.py script will open your web browser and the 6 graphs will be displayed
 
+## Technologies Used
+- Python
+- Pygal
+- Rasberry PI
+- Raspberry PI Sense Hat
+- WebSockets
+
+
 
